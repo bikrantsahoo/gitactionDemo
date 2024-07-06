@@ -1,4 +1,5 @@
 def hello():
+    print("bhai bhai ye kya kardiya tumne")
     print("hi")
 
 
